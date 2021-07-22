@@ -6,4 +6,4 @@
 - [ ] for all other inputs, return the input as a string 
 
 ## Methods
-- public static String getFizzBuzz(int input)
+- public static String processNumber(int input)
