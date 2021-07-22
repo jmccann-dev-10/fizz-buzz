@@ -5,7 +5,7 @@ public class FizzBuzz {
     public static final String FIZZ = "Fizz";
     public static final String BUZZ = "Buzz";
 
-    public static String getFizzBuzz(int input) {
+    public static String processFizzBuzz(int input) {
         if (input == 0) {
             return Integer.toString(input);
         } else if (input % 3 == 0 && input % 5 == 0) {
